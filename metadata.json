@@ -1,0 +1,6 @@
+{
+  "name": "Deeps Bake House",
+  "description": "Artisanal bakery and dessert shop in Solapur specializing in eggless handcrafted cheesecakes, gourmet cookie tins, Nutella bombolonis, and chocolate donuts with instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
